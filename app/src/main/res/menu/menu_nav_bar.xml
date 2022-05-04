@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homemenu"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/profilemenu"
+        android:icon="@drawable/profile"
+        android:title="@string/profile" />
+    <item
+        android:id="@+id/basketmenu"
+        android:icon="@drawable/basket"
+        android:title="@string/basket" />
+
+    <item
+        android:id="@+id/menumenu"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/menu" />
+</menu>

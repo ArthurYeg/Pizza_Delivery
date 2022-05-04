@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Pizza Delivery</string>
+    <string name="pizza_delivery">Pizza Delivery</string>
+    <string name="menu">Меню</string>
+    <string name="basket">Корзина</string>
+    <string name="profile">Профиль</string>
+    <string name="home">Дома </string>
+    <string name="back">Перейти в меню</string>
+
+    <string name="description_tv">Yummy</string>
+    <string name="name_tv">Yummy</string>
+    <string name="price_tv">price</string>
+    <string name="action_settings">action settings</string>
+
+
+    <string name="Add_basket">Добавить в корзину</string>
+    <string name="map">Карта</string>
+    <string name="enter">Войти личный кабинет</string>
+    <string name="contact_1">Контакты</string>
+    <string name="basket_1">Карзина</string>
+    <string name="about_us">О нас</string>
+
+
+    <string name="back_btn">Позвонить</string>
+    <string name="address">Адрес на карте</string>
+    <string name="ariva_horizontal">ariva</string>
+    <string name="contact">contact</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number">  </string>
+    <string name="tel_number">Смотрите карту</string>
+    <string name="Enter">Войти</string>
+    <string name="show_number">Указать Телефон</string>
+    <string name="code"> </string>
+    <string name="tel_num">Номер телефона</string>
+    <string name="enter_code">Теперь введите код</string>
+    <string name="submit">Отправить</string>
+    <string name="chicken_cheese">Сырный цыпленок</string>
+    <string name="diablo">Диабло</string>
+    <string name="ham_murshrooms">Ветчина и грибы</string>
+    <string name="call">Позвонить   </string>
+    <string name="chat">Отправить СМС</string>
+    <string name="contact_us">Связаться с нами</string>
+    <string name="show_num">Указать телефон</string>
+
+    <string name="info_a"> 30 см, традиционное тесто, 590 г
+        </string>
+    <string name="infoText_a"> Цыпленок, острая чоризо,соус бургер, сладкий перец,красный лук, томаты, моцарелла, соус, ранч, чеснок
+        </string>
+    <string name="info_b"> 30 см, традиционное тесто, 620 г
+        </string>
+    <string name="infoText_b"> Цыпленок, моцарелла, сыры чеддер и пармезан, сырный соус, томаты, соус альфредо, чеснок
+        </string>
+    <string name="info_c"> 30 см, традиционное тесто, 740 г
+        </string>
+    <string name="infoText_c"> Острая чоризо, острый перец халапеньо, соус барбекю, митболы, томаты, сладкий перец, красный лук, моцарелла, томатный соус
+        </string>
+    <string name="info_d">30 см, традиционное тесто, 620 г
+           </string>
+    <string name="infoText_d"> Ветчина, шампиньоны, увеличенная порция моцареллы, томатный соус
+        </string>
+    <string name="info_e"> 30 см, традиционное тесто, 650 г
+       </string>
+    <string name="infoText_e"> Ветчина, ананасы, моцарелла, томатный соус
+        </string>
+    <string name="info_f"> 30 см, традиционное тесто, 690 г
+         </string>
+    <string name="infoText_f">Бекон, цыпленок, ветчина, сыр блю чиз, сыры чеддер и пармезан, соус песто, кубики брынзы, томаты, красный лук, моцарелла, соус альфредо, чеснок, итальянские травы
+        </string>
+    <string name="info_g"> 30 см, традиционное тесто, 620 г
+         </string>
+    <string name="infoText_g">Пикантная пепперони, увеличенная порция моцареллы, томаты, томатный соус
+        </string>
+    <string name="info_h"> 30 см, традиционное тесто, 620 г
+       </string>
+    <string name="infoText_h"> Ветчина, шампиньоны, увеличенная порция моцареллы, томатный соус
+        </string>
+    <string name="info_i"> 0,3 л
+       </string>
+    <string name="infoText_i">  Шоколадный молочный коктейль со сливочным мороженым и фирменным какао
+        </string>
+    <string name="info_j">0,3 л
+            </string>
+    <string name="infoText_j">  молочный напиток с мороженым
+        </string>
+    <string name="info_k"> 0,3 л
+       </string>
+    <string name="infoText_k"> Молочный коктейль с мороженым и дробленым печеньем «Орео»
+        </string>
+    <string name="info_l"> 0,3 л
+   </string>
+    <string name="infoText_l"> коктейль с клубничным сиропом
+        </string>
+    <string name="info_m">0,3 л
+       </string>
+    <string name="infoText_m">Пара глотков горячего Американо, и вы будете готовы покорять этот день
+        </string>
+    <string name="info_n">0,4 л
+            </string>
+    <string name="infoText_n"> Король среди кофейных напитков — классический капучино. Для любителей сбалансированного кофейно-молочного вкуса
+        </string>
+    <string name="info_o">0,4 л
+       </string>
+    <string name="infoText_o"> Когда хочется нежную молочную пенку, на помощь приходит классический латте
+        </string>
+    <string name="info_p">0,4 л
+        </string>
+    <string name="infoText_p"> Горячий какао с молоком, нежная молочная пенка и ванильный маршмеллоу
+        </string>
+    <string name="info_q">0,4 л
+            </string>
+    <string name="infoText_q"> Согревающий напиток на основе пюре малины и черной смородины
+        </string>
+    <string name="info_r"> 104 г
+         </string>
+    <string name="infoText_r"> Это не просто десерт, а вишенка на торте! Творожно-песочное тесто с ягодами, заварным кремом и лепестками миндаля
+        </string>
+    <string name="info_s">270 г
+       </string>
+    <string name="infoText_s"> Это задорные сладкие рулетики, в которых закрутился микс из натуральной брусники и сгущенного молока
+        </string>
+</resources>

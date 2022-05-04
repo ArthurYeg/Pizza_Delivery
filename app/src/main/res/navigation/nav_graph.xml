@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/enterFragmemt"
+        android:name="com.example.fragment.EnterFragment"
+        android:label="fragment_menu2_fragmemt"
+        tools:layout="@layout/fragment_enter" />
+    <fragment
+        android:id="@+id/aboutUsFragment"
+        android:name="com.example.fragment.AboutUsFragment"
+        android:label="fragment_about_us"
+        tools:layout="@layout/fragment_about_us" />
+    <fragment
+        android:id="@+id/contactFragment"
+        android:name="com.example.fragment.ContactFragment"
+        android:label="fragment_contact"
+        tools:layout="@layout/fragment_contact" />
+    <fragment
+        android:id="@+id/basket2Fragment"
+        android:name="com.example.fragment.Basket2Fragment"
+        android:label="fragment_basket2"
+        tools:layout="@layout/fragment_basket2" />
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.example.fragment.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" />
+    <fragment
+        android:id="@+id/numberFragment"
+        android:name="com.example.fragment.NumberFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_number" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.fragment.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.fragment.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/codeNumberFragment"
+        android:name="com.example.pizzadelivery.CodeNumberFragment"
+        android:label="fragment_code_number"
+        tools:layout="@layout/fragment_code_number" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.example.fragment.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" />
+</navigation>
